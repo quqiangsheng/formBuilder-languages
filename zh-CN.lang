@@ -37,6 +37,7 @@ mandatory = 强制填写
 maxlength = 最大长度
 minOptionMessage = 此字段至少需要选择两项
 name = 名称
+number = 数字
 no = 否
 off = 关
 on = 开
